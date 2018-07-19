@@ -1,0 +1,4 @@
+--timeout 99999
+--full-trace
+--reporter spec
+--exit 
